@@ -1,0 +1,19 @@
+#nav-bar {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+header {
+    background-color: lavenderblush;
+    display:flex;
+}
+
+
+
+
+@media (max-width: 480px) {
+    body {
+        background-color: lavender;
+    }
+}
